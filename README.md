@@ -1,6 +1,6 @@
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
-![image](https://github.com/user-attachments/assets/ec227901-7852-42ed-90ee-ff2253fdf01c)
+<img src="https://github.com/user-attachments/assets/ec227901-7852-42ed-90ee-ff2253fdf01c" alt="Coding" />
 
 
 - 🔭 I’m currently working on **Canary Travels v3**
