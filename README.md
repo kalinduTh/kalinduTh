@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://www.kalindu.me](www.kalindu.me)
+- 👨‍💻 All of my projects are available at [www.kalindu.me](https://www.kalindu.me)
 
 - 📝 I regularly write articles on [blog.kalindu.me](blog.kalindu.me)
 
