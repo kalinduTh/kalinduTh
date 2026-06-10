@@ -1,29 +1,36 @@
 <div align="center">
 
-<!-- Soft 3D Hero Banner -->
+<!-- Smooth Curved Header Card -->
 <a href="https://www.kalindu.cc">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/7475318/media/6fb51db1162e22c151125eeec3923eb4.gif" alt="Soft 3D Abstract Gradient" width="800" style="border-radius: 30px; margin-bottom: 10px;" />
-</a>
-
-<br />
-
-# 👋 Hi, I'm Kalindu Tharanga
-
-<a href="https://www.kalindu.cc">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=EA580C&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Smooth%2C+Modern+Experiences" alt="Typing Animation" />
-</a>
-
-<br />
-
-<!-- Sleek Curved Website Card -->
-<a href="https://www.kalindu.cc">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=🌐%20Visit%20www.kalindu.cc&fontSize=35&fontAlignY=40&desc=Explore%20my%20full%20portfolio,%20skills,%20and%20knowledge%20hub.&descSize=18&descAlignY=65" alt="Portfolio Website Card" width="600" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Kalindu%20Tharanga&fontSize=55&fontAlignY=38&desc=Computer%20Science%20Graduate%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=62" alt="Kalindu Tharanga" width="100%" />
 </a>
 
 <br /><br />
 
-### 💻 Smooth & Modern Tech Stack
-*Technologies I use to build scalable web applications and intelligent systems.*
+## ✦ Building practical software with full-stack and AI-driven thinking
+
+<p align="center" style="max-width: 700px; margin: 0 auto; color: #555; font-size: 16px; line-height: 1.6;">
+  I work across web applications, mobile experiences, backend systems, APIs, and machine-learning-powered solutions. My work combines product thinking with engineering execution, with a strong interest in solving real-world problems through software.
+</p>
+
+<br />
+
+<!-- Sleek Curved Website Link Card -->
+<a href="https://www.kalindu.cc">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&text=🌐%20Explore%20My%20Full%20Portfolio&fontColor=ffffff&fontSize=28&desc=www.kalindu.cc&descSize=18&descAlignY=75&borderRadius=30" alt="Portfolio Website Card" width="600" />
+</a>
+
+<br /><br />
+
+### 🧠 What I Do
+<p align="center">
+  <code>Web Applications</code> • <code>APIs & Backend</code> • <code>Machine Learning</code> • <code>Admin Dashboards</code>
+</p>
+
+<br />
+
+### 💻 Technical Arsenal
+*The tools I use to turn complex ideas into polished, usable systems.*
 
 <br />
 
@@ -50,7 +57,7 @@
 
 <br /><br />
 
-### 📬 Connect With Me
+### 📬 Let's build something meaningful
 
 <p align="center">
   <a href="mailto:kalindu.th@gmail.com"><img src="https://img.shields.io/badge/Email-kalindu.th@gmail.com-222222?style=for-the-badge&logo=gmail&logoColor=EA580C" alt="Email" /></a>
