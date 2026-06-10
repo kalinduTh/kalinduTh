@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- Smooth Curved Header Card -->
+<!-- Smooth Curved Header Card using Website Colors (Orange Gradient) -->
 <a href="https://www.kalindu.cc">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Kalindu%20Tharanga&fontSize=55&fontAlignY=38&desc=Computer%20Science%20Graduate%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=62" alt="Kalindu Tharanga" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=custom&colorStart=EA580C&colorEnd=FF8C42&height=220&section=header&text=Kalindu%20Tharanga&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Graduate%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=62" alt="Kalindu Tharanga" width="100%" />
 </a>
 
 <br /><br />
@@ -17,7 +17,7 @@
 
 <!-- Sleek Curved Website Link Card -->
 <a href="https://www.kalindu.cc">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&text=🌐%20Explore%20My%20Full%20Portfolio&fontColor=ffffff&fontSize=28&desc=www.kalindu.cc&descSize=18&descAlignY=75&borderRadius=30" alt="Portfolio Website Card" width="600" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=custom&colorStart=18181B&colorEnd=27272A&height=120&text=🌐%20Explore%20My%20Full%20Portfolio&fontColor=EA580C&fontSize=28&desc=www.kalindu.cc&descSize=18&descAlignY=75&borderRadius=30" alt="Portfolio Website Card" width="600" />
 </a>
 
 <br /><br />
@@ -60,9 +60,9 @@
 ### 📬 Let's build something meaningful
 
 <p align="center">
-  <a href="mailto:kalindu.th@gmail.com"><img src="https://img.shields.io/badge/Email-kalindu.th@gmail.com-222222?style=for-the-badge&logo=gmail&logoColor=EA580C" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/kalindu-tharanga-a9b7511a7"><img src="https://img.shields.io/badge/LinkedIn-Connect-222222?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/kalindu_tharanga"><img src="https://img.shields.io/badge/Instagram-Follow-222222?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+  <a href="mailto:kalindu.th@gmail.com"><img src="https://img.shields.io/badge/Email-kalindu.th@gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=EA580C" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/kalindu-tharanga-a9b7511a7"><img src="https://img.shields.io/badge/LinkedIn-Connect-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/kalindu_tharanga"><img src="https://img.shields.io/badge/Instagram-Follow-18181B?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
 </p>
 
 </div>
