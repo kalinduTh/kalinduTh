@@ -1,22 +1,65 @@
-<h3 align="center">Kalindu Tharanga</h3>
-<p align="center">Full-stack developer · Sri Lanka</p>
+<div align="center">
+
+# Kalindu Tharanga
+
+### Full-Stack Developer • UI/UX Designer
+
+Building thoughtful digital experiences from Sri Lanka 🇱🇰
+
+<br/>
+
+<a href="https://kalindu.cc">Website</a> ·
+<a href="https://blog.kalindu.me">Blog</a> ·
+<a href="https://linkedin.com/in/kalindu-tharanga">LinkedIn</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Current Focus |
+|:-------------:|
+| 🚀 Canary Travels v3 |
+| ⚡ Next.js & React |
+| 🎨 Design Systems |
+| 📱 Modern Web Experiences |
+
+</div>
 
 ---
 
-**Currently:** Building Canary Travels v3 · Learning Next.js in depth
+## About
 
-**Stack:**
-`React` `Next.js` `React Native` `TypeScript` `Node.js` `Express` `Spring Boot` `MongoDB` `MySQL` `Firebase` `Tailwind` `Figma` `Blender` `Three.js` `Vercel` `Git`
+I enjoy building software where engineering and design meet.
 
----
-
-🌐 [kalindu.cc](https://kalindu.cc) · ✍️ [blog.kalindu.me](https://blog.kalindu.me) · 📩 kalindu.th@gmail.com
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kalindu--tharanga-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalindu-tharanga)
-[![Instagram](https://img.shields.io/badge/Instagram-kalindu__tharanga-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kalindu_tharanga)
+My work focuses on creating scalable web applications,
+beautiful user experiences, and maintainable systems.
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" />
-</p>
+## Stack
+
+React · Next.js · Node.js · TypeScript
+
+MongoDB · MySQL · PostgreSQL
+
+Figma · Tailwind CSS · Design Systems
+
+AWS · Docker · CI/CD
+
+---
+
+## Latest Articles
+
+- Understanding React Server Components
+- Designing Better Travel Platforms
+- Building Scalable APIs with Node.js
+
+---
+
+<div align="center">
+
+*"Simple is harder than complex."*
+
+</div>
